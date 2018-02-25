@@ -11,6 +11,5 @@ public class Main{
 		double area = Math.PI * r * r;
 
 		System.out.println("The area is: " + area);
-		System.out.println("The area is: " + area/2);
 	}
 }
